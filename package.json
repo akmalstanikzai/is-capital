@@ -1,0 +1,22 @@
+{
+  "name": "is-capital",
+  "version": "1.0.1",
+  "description": "A simple npm package for detecting if a string is in capital letters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmalstanikzai/is-capital-npm-package.git"
+  },
+  "keywords": [
+    "capital"
+  ],
+  "author": "Akmal Stanikzai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akmalstanikzai/is-capital-npm-package/issues"
+  },
+  "homepage": "https://github.com/akmalstanikzai/is-capital-npm-package#readme"
+}
